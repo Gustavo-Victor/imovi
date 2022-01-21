@@ -38,6 +38,8 @@ This project consists of a simple home page to promote a fictitious real estate 
 ![img](./src/img/screenshots/screenshot8.png)
 ![img](./src/img/screenshots/screenshot9.png)
 
+**[website hosted on Github Pages](https://gustavo-victor.github.io/imovi/#) 
+
 
 ## 🚀 How to Use
 
